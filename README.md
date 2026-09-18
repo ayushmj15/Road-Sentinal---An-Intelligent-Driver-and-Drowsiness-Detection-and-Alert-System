@@ -198,9 +198,8 @@ RoadSentinel/
 ```
 
 **Circuit Diagram**
+<img width="1116" height="630" alt="circuit_diagram png" src="https://github.com/user-attachments/assets/a7b07991-62e9-4023-8847-1a8832065b46" />
 
-![RoadSentinel Circuit Connection](hardware/circuit_diagram.png)
-*(Upload your schematic/fritzing diagram to the `hardware/` folder to render this image.)*
 
 ---
 
