@@ -1,0 +1,26 @@
+# Arduino build artifacts
+build/
+build-*/
+*.elf
+*.hex
+*.lst
+*.o
+*.a
+*.d
+*.mk
+*.dep
+*.stackdump
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+__pycache__/
+*.log
